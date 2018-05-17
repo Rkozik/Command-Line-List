@@ -5,3 +5,6 @@ https://github.com/mps-youtube/mps-youtube
 
 ## Haxor News
 https://github.com/donnemartin/haxor-news
+
+## Newsboat
+https://newsbeuter.org/
